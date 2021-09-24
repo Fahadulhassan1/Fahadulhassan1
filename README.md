@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fahadulhassan1
 - 👀 I’m interested in Flutter and backend development in Node.js
 - 🌱 I’m currently learning Full stack development. 
-- 💞️ I’m looking to collaborate on MERN Stack and Node.js Development.
+- 💞️ I’m looking to collaborate on MERN Stack and Flutter.
 - 📫 Reach me at fahad.khalid01234@gmail.com
 
 <!---

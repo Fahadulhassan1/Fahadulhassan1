@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fahadulhassan1
-- 👀 I’m interested in MERN and Flutter
-- 🌱 I’m currently learning Full stack development. 
-- 💞️ I’m looking to collaborate on MERN Stack and Flutter.
+- 👀 I’m interested in Golang And MERN
+- 💞️ I’m looking to collaborate on Golang and MERN Stack.
 - 📫 Reach me at fahad.khalid01234@gmail.com
 
 <!---
